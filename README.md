@@ -44,10 +44,4 @@ Troubleshooting
 
 2.If the images do not display, check that the image sources are correct and that the images are accessible.
 
-Contributing
 
-1.If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-
-Contributing
-If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
